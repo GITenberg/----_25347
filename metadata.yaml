@@ -1,0 +1,31 @@
+_repo: '----_25347'
+_version: 0.1.0
+alternative_title: Zhen'guan zheng yao
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wu, Jing
+    alias: 吳兢
+    birthdate: 670
+    deathdate: 749
+    gutenberg_agent_id: '26281'
+    url: http://www.gutenberg.org/2009/agents/26281
+description: ''
+gutenberg_issued: '2008-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25347'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tang Taizong, Emperor of China, 597-649'
+- !lcsh 'Political ethics -- China'
+- !lcsh 'China -- History -- Tang dynasty, 618-907'
+- !lcsh 'China -- Politics and government -- 581-907'
+- !lcc 'JQ'
+title: 貞觀政要
+url: http://www.gutenberg.org/ebooks/25347
